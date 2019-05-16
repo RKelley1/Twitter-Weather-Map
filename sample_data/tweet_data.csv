@@ -1,0 +1,134 @@
+tweet_date,city,occur
+Mon Apr 30 23:51:50 +0000 2018,"Austin, TX",1
+Mon Apr 30 23:32:45 +0000 2018,"Newark, NJ",1
+Mon Apr 30 23:28:29 +0000 2018,"Manhattan, NY",1
+Mon Apr 30 23:24:08 +0000 2018,Brigham Young University,1
+Mon Apr 30 23:16:55 +0000 2018,"East Chicago, IN",1
+Mon Apr 30 23:13:29 +0000 2018,"Brooklyn, NY",1
+Mon Apr 30 23:04:03 +0000 2018,"San Antonio, TX",1
+Mon Apr 30 23:02:55 +0000 2018,Onfield @Fenway,1
+Mon Apr 30 22:58:56 +0000 2018,"Naperville, IL",1
+Mon Apr 30 22:51:42 +0000 2018,"Manhattan, NY",1
+Mon Apr 30 22:39:37 +0000 2018,"Talofofo, USA",1
+Mon Apr 30 22:31:29 +0000 2018,"Vacaville, CA",1
+Mon Apr 30 22:27:56 +0000 2018,"Twin Falls, ID",1
+Mon Apr 30 22:21:53 +0000 2018,"Oklahoma, USA",1
+Mon Apr 30 22:19:22 +0000 2018,"Austin, TX",1
+Mon Apr 30 22:19:01 +0000 2018,"Brushy Creek, TX",1
+Mon Apr 30 22:17:28 +0000 2018,"Coon Rapids, MN",1
+Mon Apr 30 22:15:07 +0000 2018,"Live Oak, TX",1
+Mon Apr 30 22:07:51 +0000 2018,"Omaha, NE",1
+Mon Apr 30 22:04:11 +0000 2018,"Brooklyn, NY",1
+Mon Apr 30 21:59:47 +0000 2018,"Edinburg, TX",1
+Mon Apr 30 21:58:17 +0000 2018,"Brooklyn, NY",1
+Mon Apr 30 21:50:59 +0000 2018,"San Francisco, CA",1
+Mon Apr 30 21:41:39 +0000 2018,"Thousand Oaks, CA",1
+Mon Apr 30 21:38:49 +0000 2018,"Manhattan, NY",1
+Mon Apr 30 21:32:08 +0000 2018,"Baton Rouge, LA",1
+Mon Apr 30 21:21:09 +0000 2018,"Manhattan, NY",1
+Mon Apr 30 21:17:03 +0000 2018,"Brooklyn, NY",1
+Mon Apr 30 21:16:23 +0000 2018,"Roselle, NJ",1
+Mon Apr 30 21:08:20 +0000 2018,"Cambridge, MA",1
+Mon Apr 30 20:53:55 +0000 2018,"Park Forest Village, PA",1
+Mon Apr 30 20:45:13 +0000 2018,"Brookline, MA",1
+Mon Apr 30 20:43:22 +0000 2018,"Emerson, NJ",1
+Mon Apr 30 20:42:22 +0000 2018,"Atascocita, TX",1
+Mon Apr 30 20:41:05 +0000 2018,"Worcester, MA",1
+Mon Apr 30 20:39:31 +0000 2018,"Cisco, TX",1
+Mon Apr 30 20:39:04 +0000 2018,"Manhattan, NY",1
+Mon Apr 30 20:37:15 +0000 2018,Centennial Olympic Park,1
+Mon Apr 30 20:32:41 +0000 2018,"Houston, TX",1
+Mon Apr 30 20:19:30 +0000 2018,"San Antonio, TX",1
+Mon Apr 30 19:43:09 +0000 2018,"Maplewood, MO",1
+Mon Apr 30 19:35:25 +0000 2018,"Manhattan, NY",1
+Mon Apr 30 19:28:58 +0000 2018,"Madison Center, CT",1
+Mon Apr 30 19:28:18 +0000 2018,"Boston, MA",1
+Mon Apr 30 19:24:09 +0000 2018,"Bethesda, MD",1
+Mon Apr 30 19:19:07 +0000 2018,"Tennessee, USA",1
+Mon Apr 30 19:07:19 +0000 2018,"San Diego, CA",1
+Mon Apr 30 19:00:34 +0000 2018,"Paradise, NV",1
+Mon Apr 30 18:58:05 +0000 2018,"Bronx, NY",1
+Mon Apr 30 18:57:33 +0000 2018,"West Orange, NJ",1
+Mon Apr 30 18:46:19 +0000 2018,"Florida, USA",1
+Mon Apr 30 18:46:13 +0000 2018,"Seattle, WA",1
+Mon Apr 30 18:39:11 +0000 2018,"Lacey, WA",1
+Mon Apr 30 18:38:51 +0000 2018,"Manhattan, NY",1
+Mon Apr 30 18:25:13 +0000 2018,"Las Vegas, NV",1
+Mon Apr 30 18:16:14 +0000 2018,"Florida, USA",1
+Mon Apr 30 18:09:16 +0000 2018,"Salt Lake City, UT",1
+Mon Apr 30 17:44:24 +0000 2018,"Ladera Heights, CA",1
+Mon Apr 30 17:34:35 +0000 2018,"Washington, USA",1
+Mon Apr 30 17:33:27 +0000 2018,"Austin, TX",1
+Mon Apr 30 17:27:54 +0000 2018,"Kailua, HI",1
+Mon Apr 30 17:17:30 +0000 2018,"Malone, NY",1
+Mon Apr 30 17:07:02 +0000 2018,"San Diego, CA",1
+Mon Apr 30 17:04:10 +0000 2018,"Logan, UT",1
+Mon Apr 30 17:02:52 +0000 2018,"Lafayette, LA",1
+Mon Apr 30 16:58:05 +0000 2018,"Norfolk, VA",1
+Mon Apr 30 16:50:49 +0000 2018,"San Diego, CA",1
+Mon Apr 30 16:45:11 +0000 2018,"Fort Hood, TX",1
+Mon Apr 30 16:40:12 +0000 2018,"Luling, TX",1
+Mon Apr 30 16:37:02 +0000 2018,"San Diego, CA",1
+Mon Apr 30 16:33:32 +0000 2018,"Metairie, LA",1
+Mon Apr 30 16:22:29 +0000 2018,"George Mason, VA",1
+Mon Apr 30 16:19:13 +0000 2018,"West Valley City, UT",1
+Mon Apr 30 16:12:28 +0000 2018,United States,1
+Mon Apr 30 16:02:51 +0000 2018,"South Jordan, UT",1
+Mon Apr 30 15:37:59 +0000 2018,"Elyria, OH",1
+Mon Apr 30 15:36:54 +0000 2018,"Brooklyn, NY",1
+Mon Apr 30 15:34:35 +0000 2018,"Long Beach, CA",1
+Mon Apr 30 15:31:17 +0000 2018,"Bridgeport, CT",1
+Mon Apr 30 15:29:28 +0000 2018,"Los Angeles, CA",1
+Mon Apr 30 15:27:45 +0000 2018,"Bronx, NY",1
+Mon Apr 30 15:26:32 +0000 2018,"Grayson, GA",1
+Mon Apr 30 15:19:11 +0000 2018,"New Haven, CT",1
+Mon Apr 30 15:18:35 +0000 2018,"California, USA",1
+Mon Apr 30 15:08:19 +0000 2018,"Harrisville, UT",1
+Mon Apr 30 15:03:46 +0000 2018,"La Verne, CA",1
+Mon Apr 30 15:02:48 +0000 2018,"San Diego, CA",1
+Mon Apr 30 14:55:46 +0000 2018,"Holt, MI",1
+Mon Apr 30 14:54:22 +0000 2018,"Northampton, MA",1
+Mon Apr 30 14:43:56 +0000 2018,"Azusa, CA",1
+Mon Apr 30 14:42:18 +0000 2018,"Manchester, CT",1
+Mon Apr 30 14:41:57 +0000 2018,"Seabrook, NH",1
+Mon Apr 30 14:19:11 +0000 2018,"San Francisco, CA",1
+Mon Apr 30 14:13:41 +0000 2018,"Woodcliff Lake, NJ",1
+Mon Apr 30 13:44:54 +0000 2018,"Minneapolis, MN",1
+Mon Apr 30 13:42:38 +0000 2018,"New Albany, IN",1
+Mon Apr 30 13:33:22 +0000 2018,"California, USA",1
+Mon Apr 30 13:27:02 +0000 2018,"Woodbury, MN",1
+Mon Apr 30 13:25:05 +0000 2018,"Delmar, NY",1
+Mon Apr 30 13:12:12 +0000 2018,"Daly City, CA",1
+Mon Apr 30 13:08:56 +0000 2018,"La Verne, CA",1
+Mon Apr 30 13:06:04 +0000 2018,"Minneapolis, MN",1
+Mon Apr 30 13:05:01 +0000 2018,"St Paul, MN",1
+Mon Apr 30 13:03:41 +0000 2018,"Fort Stockton, TX",1
+Mon Apr 30 12:56:00 +0000 2018,"Montana, USA",1
+Mon Apr 30 12:54:40 +0000 2018,"Minneapolis, MN",1
+Mon Apr 30 12:52:51 +0000 2018,"Gainesville, GA",1
+Mon Apr 30 12:40:35 +0000 2018,"Sandy Springs, GA",1
+Mon Apr 30 12:32:40 +0000 2018,"Colesville, MD",1
+Mon Apr 30 12:29:34 +0000 2018,"Washington, USA",1
+Mon Apr 30 12:19:34 +0000 2018,"Minnesota, USA",1
+Mon Apr 30 12:16:10 +0000 2018,"Brooklyn, NY",1
+Mon Apr 30 11:31:36 +0000 2018,"Sterling, VA",1
+Mon Apr 30 10:02:32 +0000 2018,"Minnesota, USA",1
+Mon Apr 30 07:23:32 +0000 2018,"Vancouver, WA",1
+Mon Apr 30 06:41:17 +0000 2018,"Logan, UT",1
+Mon Apr 30 06:20:10 +0000 2018,"Charter Oak, CA",1
+Mon Apr 30 05:32:52 +0000 2018,"St Paul, MN",1
+Mon Apr 30 05:27:51 +0000 2018,"Dover, DE",1
+Mon Apr 30 04:59:54 +0000 2018,"Slippery Rock, PA",1
+Mon Apr 30 04:44:35 +0000 2018,"Alabama, USA",1
+Mon Apr 30 04:17:02 +0000 2018,"Austin, TX",1
+Mon Apr 30 03:46:05 +0000 2018,"Boston, MA",1
+Mon Apr 30 03:35:07 +0000 2018,"Lubbock, TX",1
+Mon Apr 30 03:15:04 +0000 2018,"Seattle, WA",1
+Mon Apr 30 03:03:06 +0000 2018,"Manhattan, NY",1
+Mon Apr 30 02:01:53 +0000 2018,"Oakland, CA",1
+Mon Apr 30 01:30:39 +0000 2018,Cheshire High School,1
+Mon Apr 30 01:11:37 +0000 2018,"San Francisco, CA",1
+Mon Apr 30 00:43:31 +0000 2018,"Nashville, TN",1
+Mon Apr 30 00:31:03 +0000 2018,"Georgia, USA",1
+Mon Apr 30 00:12:16 +0000 2018,"Eugene, OR",1
+Mon Apr 30 00:01:44 +0000 2018,"Virginia, USA",1

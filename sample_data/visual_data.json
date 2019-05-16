@@ -1,0 +1,800 @@
+[
+    {
+        "tweet": {
+            "place": "Austin, TX",
+            "tweet_date": "Mon Apr 30 23:51:50 +0000 2018"
+        }
+    },
+    {
+        "tweet": {
+            "place": "Newark, NJ",
+            "tweet_date": "Mon Apr 30 23:32:45 +0000 2018"
+        }
+    },
+    {
+        "tweet": {
+            "place": "Manhattan, NY",
+            "tweet_date": "Mon Apr 30 23:28:29 +0000 2018"
+        }
+    },
+    {
+        "tweet": {
+            "place": "Brigham Young University",
+            "tweet_date": "Mon Apr 30 23:24:08 +0000 2018"
+        }
+    },
+    {
+        "tweet": {
+            "place": "East Chicago, IN",
+            "tweet_date": "Mon Apr 30 23:16:55 +0000 2018"
+        }
+    },
+    {
+        "tweet": {
+            "place": "Brooklyn, NY",
+            "tweet_date": "Mon Apr 30 23:13:29 +0000 2018"
+        }
+    },
+    {
+        "tweet": {
+            "place": "San Antonio, TX",
+            "tweet_date": "Mon Apr 30 23:04:03 +0000 2018"
+        }
+    },
+    {
+        "tweet": {
+            "place": "Onfield @Fenway",
+            "tweet_date": "Mon Apr 30 23:02:55 +0000 2018"
+        }
+    },
+    {
+        "tweet": {
+            "place": "Naperville, IL",
+            "tweet_date": "Mon Apr 30 22:58:56 +0000 2018"
+        }
+    },
+    {
+        "tweet": {
+            "place": "Manhattan, NY",
+            "tweet_date": "Mon Apr 30 22:51:42 +0000 2018"
+        }
+    },
+    {
+        "tweet": {
+            "place": "Talofofo, USA",
+            "tweet_date": "Mon Apr 30 22:39:37 +0000 2018"
+        }
+    },
+    {
+        "tweet": {
+            "place": "Vacaville, CA",
+            "tweet_date": "Mon Apr 30 22:31:29 +0000 2018"
+        }
+    },
+    {
+        "tweet": {
+            "place": "Twin Falls, ID",
+            "tweet_date": "Mon Apr 30 22:27:56 +0000 2018"
+        }
+    },
+    {
+        "tweet": {
+            "place": "Oklahoma, USA",
+            "tweet_date": "Mon Apr 30 22:21:53 +0000 2018"
+        }
+    },
+    {
+        "tweet": {
+            "place": "Austin, TX",
+            "tweet_date": "Mon Apr 30 22:19:22 +0000 2018"
+        }
+    },
+    {
+        "tweet": {
+            "place": "Brushy Creek, TX",
+            "tweet_date": "Mon Apr 30 22:19:01 +0000 2018"
+        }
+    },
+    {
+        "tweet": {
+            "place": "Coon Rapids, MN",
+            "tweet_date": "Mon Apr 30 22:17:28 +0000 2018"
+        }
+    },
+    {
+        "tweet": {
+            "place": "Live Oak, TX",
+            "tweet_date": "Mon Apr 30 22:15:07 +0000 2018"
+        }
+    },
+    {
+        "tweet": {
+            "place": "Omaha, NE",
+            "tweet_date": "Mon Apr 30 22:07:51 +0000 2018"
+        }
+    },
+    {
+        "tweet": {
+            "place": "Brooklyn, NY",
+            "tweet_date": "Mon Apr 30 22:04:11 +0000 2018"
+        }
+    },
+    {
+        "tweet": {
+            "place": "Edinburg, TX",
+            "tweet_date": "Mon Apr 30 21:59:47 +0000 2018"
+        }
+    },
+    {
+        "tweet": {
+            "place": "Brooklyn, NY",
+            "tweet_date": "Mon Apr 30 21:58:17 +0000 2018"
+        }
+    },
+    {
+        "tweet": {
+            "place": "San Francisco, CA",
+            "tweet_date": "Mon Apr 30 21:50:59 +0000 2018"
+        }
+    },
+    {
+        "tweet": {
+            "place": "Thousand Oaks, CA",
+            "tweet_date": "Mon Apr 30 21:41:39 +0000 2018"
+        }
+    },
+    {
+        "tweet": {
+            "place": "Manhattan, NY",
+            "tweet_date": "Mon Apr 30 21:38:49 +0000 2018"
+        }
+    },
+    {
+        "tweet": {
+            "place": "Baton Rouge, LA",
+            "tweet_date": "Mon Apr 30 21:32:08 +0000 2018"
+        }
+    },
+    {
+        "tweet": {
+            "place": "Manhattan, NY",
+            "tweet_date": "Mon Apr 30 21:21:09 +0000 2018"
+        }
+    },
+    {
+        "tweet": {
+            "place": "Brooklyn, NY",
+            "tweet_date": "Mon Apr 30 21:17:03 +0000 2018"
+        }
+    },
+    {
+        "tweet": {
+            "place": "Roselle, NJ",
+            "tweet_date": "Mon Apr 30 21:16:23 +0000 2018"
+        }
+    },
+    {
+        "tweet": {
+            "place": "Cambridge, MA",
+            "tweet_date": "Mon Apr 30 21:08:20 +0000 2018"
+        }
+    },
+    {
+        "tweet": {
+            "place": "Park Forest Village, PA",
+            "tweet_date": "Mon Apr 30 20:53:55 +0000 2018"
+        }
+    },
+    {
+        "tweet": {
+            "place": "Brookline, MA",
+            "tweet_date": "Mon Apr 30 20:45:13 +0000 2018"
+        }
+    },
+    {
+        "tweet": {
+            "place": "Emerson, NJ",
+            "tweet_date": "Mon Apr 30 20:43:22 +0000 2018"
+        }
+    },
+    {
+        "tweet": {
+            "place": "Atascocita, TX",
+            "tweet_date": "Mon Apr 30 20:42:22 +0000 2018"
+        }
+    },
+    {
+        "tweet": {
+            "place": "Worcester, MA",
+            "tweet_date": "Mon Apr 30 20:41:05 +0000 2018"
+        }
+    },
+    {
+        "tweet": {
+            "place": "Cisco, TX",
+            "tweet_date": "Mon Apr 30 20:39:31 +0000 2018"
+        }
+    },
+    {
+        "tweet": {
+            "place": "Manhattan, NY",
+            "tweet_date": "Mon Apr 30 20:39:04 +0000 2018"
+        }
+    },
+    {
+        "tweet": {
+            "place": "Centennial Olympic Park",
+            "tweet_date": "Mon Apr 30 20:37:15 +0000 2018"
+        }
+    },
+    {
+        "tweet": {
+            "place": "Houston, TX",
+            "tweet_date": "Mon Apr 30 20:32:41 +0000 2018"
+        }
+    },
+    {
+        "tweet": {
+            "place": "San Antonio, TX",
+            "tweet_date": "Mon Apr 30 20:19:30 +0000 2018"
+        }
+    },
+    {
+        "tweet": {
+            "place": "Maplewood, MO",
+            "tweet_date": "Mon Apr 30 19:43:09 +0000 2018"
+        }
+    },
+    {
+        "tweet": {
+            "place": "Manhattan, NY",
+            "tweet_date": "Mon Apr 30 19:35:25 +0000 2018"
+        }
+    },
+    {
+        "tweet": {
+            "place": "Madison Center, CT",
+            "tweet_date": "Mon Apr 30 19:28:58 +0000 2018"
+        }
+    },
+    {
+        "tweet": {
+            "place": "Boston, MA",
+            "tweet_date": "Mon Apr 30 19:28:18 +0000 2018"
+        }
+    },
+    {
+        "tweet": {
+            "place": "Bethesda, MD",
+            "tweet_date": "Mon Apr 30 19:24:09 +0000 2018"
+        }
+    },
+    {
+        "tweet": {
+            "place": "Tennessee, USA",
+            "tweet_date": "Mon Apr 30 19:19:07 +0000 2018"
+        }
+    },
+    {
+        "tweet": {
+            "place": "San Diego, CA",
+            "tweet_date": "Mon Apr 30 19:07:19 +0000 2018"
+        }
+    },
+    {
+        "tweet": {
+            "place": "Paradise, NV",
+            "tweet_date": "Mon Apr 30 19:00:34 +0000 2018"
+        }
+    },
+    {
+        "tweet": {
+            "place": "Bronx, NY",
+            "tweet_date": "Mon Apr 30 18:58:05 +0000 2018"
+        }
+    },
+    {
+        "tweet": {
+            "place": "West Orange, NJ",
+            "tweet_date": "Mon Apr 30 18:57:33 +0000 2018"
+        }
+    },
+    {
+        "tweet": {
+            "place": "Florida, USA",
+            "tweet_date": "Mon Apr 30 18:46:19 +0000 2018"
+        }
+    },
+    {
+        "tweet": {
+            "place": "Seattle, WA",
+            "tweet_date": "Mon Apr 30 18:46:13 +0000 2018"
+        }
+    },
+    {
+        "tweet": {
+            "place": "Lacey, WA",
+            "tweet_date": "Mon Apr 30 18:39:11 +0000 2018"
+        }
+    },
+    {
+        "tweet": {
+            "place": "Manhattan, NY",
+            "tweet_date": "Mon Apr 30 18:38:51 +0000 2018"
+        }
+    },
+    {
+        "tweet": {
+            "place": "Las Vegas, NV",
+            "tweet_date": "Mon Apr 30 18:25:13 +0000 2018"
+        }
+    },
+    {
+        "tweet": {
+            "place": "Florida, USA",
+            "tweet_date": "Mon Apr 30 18:16:14 +0000 2018"
+        }
+    },
+    {
+        "tweet": {
+            "place": "Salt Lake City, UT",
+            "tweet_date": "Mon Apr 30 18:09:16 +0000 2018"
+        }
+    },
+    {
+        "tweet": {
+            "place": "Ladera Heights, CA",
+            "tweet_date": "Mon Apr 30 17:44:24 +0000 2018"
+        }
+    },
+    {
+        "tweet": {
+            "place": "Washington, USA",
+            "tweet_date": "Mon Apr 30 17:34:35 +0000 2018"
+        }
+    },
+    {
+        "tweet": {
+            "place": "Austin, TX",
+            "tweet_date": "Mon Apr 30 17:33:27 +0000 2018"
+        }
+    },
+    {
+        "tweet": {
+            "place": "Kailua, HI",
+            "tweet_date": "Mon Apr 30 17:27:54 +0000 2018"
+        }
+    },
+    {
+        "tweet": {
+            "place": "Malone, NY",
+            "tweet_date": "Mon Apr 30 17:17:30 +0000 2018"
+        }
+    },
+    {
+        "tweet": {
+            "place": "San Diego, CA",
+            "tweet_date": "Mon Apr 30 17:07:02 +0000 2018"
+        }
+    },
+    {
+        "tweet": {
+            "place": "Logan, UT",
+            "tweet_date": "Mon Apr 30 17:04:10 +0000 2018"
+        }
+    },
+    {
+        "tweet": {
+            "place": "Lafayette, LA",
+            "tweet_date": "Mon Apr 30 17:02:52 +0000 2018"
+        }
+    },
+    {
+        "tweet": {
+            "place": "Norfolk, VA",
+            "tweet_date": "Mon Apr 30 16:58:05 +0000 2018"
+        }
+    },
+    {
+        "tweet": {
+            "place": "San Diego, CA",
+            "tweet_date": "Mon Apr 30 16:50:49 +0000 2018"
+        }
+    },
+    {
+        "tweet": {
+            "place": "Fort Hood, TX",
+            "tweet_date": "Mon Apr 30 16:45:11 +0000 2018"
+        }
+    },
+    {
+        "tweet": {
+            "place": "Luling, TX",
+            "tweet_date": "Mon Apr 30 16:40:12 +0000 2018"
+        }
+    },
+    {
+        "tweet": {
+            "place": "San Diego, CA",
+            "tweet_date": "Mon Apr 30 16:37:02 +0000 2018"
+        }
+    },
+    {
+        "tweet": {
+            "place": "Metairie, LA",
+            "tweet_date": "Mon Apr 30 16:33:32 +0000 2018"
+        }
+    },
+    {
+        "tweet": {
+            "place": "George Mason, VA",
+            "tweet_date": "Mon Apr 30 16:22:29 +0000 2018"
+        }
+    },
+    {
+        "tweet": {
+            "place": "West Valley City, UT",
+            "tweet_date": "Mon Apr 30 16:19:13 +0000 2018"
+        }
+    },
+    {
+        "tweet": {
+            "place": "United States",
+            "tweet_date": "Mon Apr 30 16:12:28 +0000 2018"
+        }
+    },
+    {
+        "tweet": {
+            "place": "South Jordan, UT",
+            "tweet_date": "Mon Apr 30 16:02:51 +0000 2018"
+        }
+    },
+    {
+        "tweet": {
+            "place": "Elyria, OH",
+            "tweet_date": "Mon Apr 30 15:37:59 +0000 2018"
+        }
+    },
+    {
+        "tweet": {
+            "place": "Brooklyn, NY",
+            "tweet_date": "Mon Apr 30 15:36:54 +0000 2018"
+        }
+    },
+    {
+        "tweet": {
+            "place": "Long Beach, CA",
+            "tweet_date": "Mon Apr 30 15:34:35 +0000 2018"
+        }
+    },
+    {
+        "tweet": {
+            "place": "Bridgeport, CT",
+            "tweet_date": "Mon Apr 30 15:31:17 +0000 2018"
+        }
+    },
+    {
+        "tweet": {
+            "place": "Los Angeles, CA",
+            "tweet_date": "Mon Apr 30 15:29:28 +0000 2018"
+        }
+    },
+    {
+        "tweet": {
+            "place": "Bronx, NY",
+            "tweet_date": "Mon Apr 30 15:27:45 +0000 2018"
+        }
+    },
+    {
+        "tweet": {
+            "place": "Grayson, GA",
+            "tweet_date": "Mon Apr 30 15:26:32 +0000 2018"
+        }
+    },
+    {
+        "tweet": {
+            "place": "New Haven, CT",
+            "tweet_date": "Mon Apr 30 15:19:11 +0000 2018"
+        }
+    },
+    {
+        "tweet": {
+            "place": "California, USA",
+            "tweet_date": "Mon Apr 30 15:18:35 +0000 2018"
+        }
+    },
+    {
+        "tweet": {
+            "place": "Harrisville, UT",
+            "tweet_date": "Mon Apr 30 15:08:19 +0000 2018"
+        }
+    },
+    {
+        "tweet": {
+            "place": "La Verne, CA",
+            "tweet_date": "Mon Apr 30 15:03:46 +0000 2018"
+        }
+    },
+    {
+        "tweet": {
+            "place": "San Diego, CA",
+            "tweet_date": "Mon Apr 30 15:02:48 +0000 2018"
+        }
+    },
+    {
+        "tweet": {
+            "place": "Holt, MI",
+            "tweet_date": "Mon Apr 30 14:55:46 +0000 2018"
+        }
+    },
+    {
+        "tweet": {
+            "place": "Northampton, MA",
+            "tweet_date": "Mon Apr 30 14:54:22 +0000 2018"
+        }
+    },
+    {
+        "tweet": {
+            "place": "Azusa, CA",
+            "tweet_date": "Mon Apr 30 14:43:56 +0000 2018"
+        }
+    },
+    {
+        "tweet": {
+            "place": "Manchester, CT",
+            "tweet_date": "Mon Apr 30 14:42:18 +0000 2018"
+        }
+    },
+    {
+        "tweet": {
+            "place": "Seabrook, NH",
+            "tweet_date": "Mon Apr 30 14:41:57 +0000 2018"
+        }
+    },
+    {
+        "tweet": {
+            "place": "San Francisco, CA",
+            "tweet_date": "Mon Apr 30 14:19:11 +0000 2018"
+        }
+    },
+    {
+        "tweet": {
+            "place": "Woodcliff Lake, NJ",
+            "tweet_date": "Mon Apr 30 14:13:41 +0000 2018"
+        }
+    },
+    {
+        "tweet": {
+            "place": "Minneapolis, MN",
+            "tweet_date": "Mon Apr 30 13:44:54 +0000 2018"
+        }
+    },
+    {
+        "tweet": {
+            "place": "New Albany, IN",
+            "tweet_date": "Mon Apr 30 13:42:38 +0000 2018"
+        }
+    },
+    {
+        "tweet": {
+            "place": "California, USA",
+            "tweet_date": "Mon Apr 30 13:33:22 +0000 2018"
+        }
+    },
+    {
+        "tweet": {
+            "place": "Woodbury, MN",
+            "tweet_date": "Mon Apr 30 13:27:02 +0000 2018"
+        }
+    },
+    {
+        "tweet": {
+            "place": "Delmar, NY",
+            "tweet_date": "Mon Apr 30 13:25:05 +0000 2018"
+        }
+    },
+    {
+        "tweet": {
+            "place": "Daly City, CA",
+            "tweet_date": "Mon Apr 30 13:12:12 +0000 2018"
+        }
+    },
+    {
+        "tweet": {
+            "place": "La Verne, CA",
+            "tweet_date": "Mon Apr 30 13:08:56 +0000 2018"
+        }
+    },
+    {
+        "tweet": {
+            "place": "Minneapolis, MN",
+            "tweet_date": "Mon Apr 30 13:06:04 +0000 2018"
+        }
+    },
+    {
+        "tweet": {
+            "place": "St Paul, MN",
+            "tweet_date": "Mon Apr 30 13:05:01 +0000 2018"
+        }
+    },
+    {
+        "tweet": {
+            "place": "Fort Stockton, TX",
+            "tweet_date": "Mon Apr 30 13:03:41 +0000 2018"
+        }
+    },
+    {
+        "tweet": {
+            "place": "Montana, USA",
+            "tweet_date": "Mon Apr 30 12:56:00 +0000 2018"
+        }
+    },
+    {
+        "tweet": {
+            "place": "Minneapolis, MN",
+            "tweet_date": "Mon Apr 30 12:54:40 +0000 2018"
+        }
+    },
+    {
+        "tweet": {
+            "place": "Gainesville, GA",
+            "tweet_date": "Mon Apr 30 12:52:51 +0000 2018"
+        }
+    },
+    {
+        "tweet": {
+            "place": "Sandy Springs, GA",
+            "tweet_date": "Mon Apr 30 12:40:35 +0000 2018"
+        }
+    },
+    {
+        "tweet": {
+            "place": "Colesville, MD",
+            "tweet_date": "Mon Apr 30 12:32:40 +0000 2018"
+        }
+    },
+    {
+        "tweet": {
+            "place": "Washington, USA",
+            "tweet_date": "Mon Apr 30 12:29:34 +0000 2018"
+        }
+    },
+    {
+        "tweet": {
+            "place": "Minnesota, USA",
+            "tweet_date": "Mon Apr 30 12:19:34 +0000 2018"
+        }
+    },
+    {
+        "tweet": {
+            "place": "Brooklyn, NY",
+            "tweet_date": "Mon Apr 30 12:16:10 +0000 2018"
+        }
+    },
+    {
+        "tweet": {
+            "place": "Sterling, VA",
+            "tweet_date": "Mon Apr 30 11:31:36 +0000 2018"
+        }
+    },
+    {
+        "tweet": {
+            "place": "Minnesota, USA",
+            "tweet_date": "Mon Apr 30 10:02:32 +0000 2018"
+        }
+    },
+    {
+        "tweet": {
+            "place": "Vancouver, WA",
+            "tweet_date": "Mon Apr 30 07:23:32 +0000 2018"
+        }
+    },
+    {
+        "tweet": {
+            "place": "Logan, UT",
+            "tweet_date": "Mon Apr 30 06:41:17 +0000 2018"
+        }
+    },
+    {
+        "tweet": {
+            "place": "Charter Oak, CA",
+            "tweet_date": "Mon Apr 30 06:20:10 +0000 2018"
+        }
+    },
+    {
+        "tweet": {
+            "place": "St Paul, MN",
+            "tweet_date": "Mon Apr 30 05:32:52 +0000 2018"
+        }
+    },
+    {
+        "tweet": {
+            "place": "Dover, DE",
+            "tweet_date": "Mon Apr 30 05:27:51 +0000 2018"
+        }
+    },
+    {
+        "tweet": {
+            "place": "Slippery Rock, PA",
+            "tweet_date": "Mon Apr 30 04:59:54 +0000 2018"
+        }
+    },
+    {
+        "tweet": {
+            "place": "Alabama, USA",
+            "tweet_date": "Mon Apr 30 04:44:35 +0000 2018"
+        }
+    },
+    {
+        "tweet": {
+            "place": "Austin, TX",
+            "tweet_date": "Mon Apr 30 04:17:02 +0000 2018"
+        }
+    },
+    {
+        "tweet": {
+            "place": "Boston, MA",
+            "tweet_date": "Mon Apr 30 03:46:05 +0000 2018"
+        }
+    },
+    {
+        "tweet": {
+            "place": "Lubbock, TX",
+            "tweet_date": "Mon Apr 30 03:35:07 +0000 2018"
+        }
+    },
+    {
+        "tweet": {
+            "place": "Seattle, WA",
+            "tweet_date": "Mon Apr 30 03:15:04 +0000 2018"
+        }
+    },
+    {
+        "tweet": {
+            "place": "Manhattan, NY",
+            "tweet_date": "Mon Apr 30 03:03:06 +0000 2018"
+        }
+    },
+    {
+        "tweet": {
+            "place": "Oakland, CA",
+            "tweet_date": "Mon Apr 30 02:01:53 +0000 2018"
+        }
+    },
+    {
+        "tweet": {
+            "place": "Cheshire High School",
+            "tweet_date": "Mon Apr 30 01:30:39 +0000 2018"
+        }
+    },
+    {
+        "tweet": {
+            "place": "San Francisco, CA",
+            "tweet_date": "Mon Apr 30 01:11:37 +0000 2018"
+        }
+    },
+    {
+        "tweet": {
+            "place": "Nashville, TN",
+            "tweet_date": "Mon Apr 30 00:43:31 +0000 2018"
+        }
+    },
+    {
+        "tweet": {
+            "place": "Georgia, USA",
+            "tweet_date": "Mon Apr 30 00:31:03 +0000 2018"
+        }
+    },
+    {
+        "tweet": {
+            "place": "Eugene, OR",
+            "tweet_date": "Mon Apr 30 00:12:16 +0000 2018"
+        }
+    },
+    {
+        "tweet": {
+            "place": "Virginia, USA",
+            "tweet_date": "Mon Apr 30 00:01:44 +0000 2018"
+        }
+    }
+]

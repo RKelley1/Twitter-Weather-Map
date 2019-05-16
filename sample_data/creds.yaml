@@ -1,0 +1,5 @@
+search_tweets_enterprise:
+  account_type: enterprise
+  endpoint: https://gnip-api.twitter.com/search/fullarchive/accounts/greg-students/prod.json
+  username: austin.griffith@colorado.edu
+  password: Vicki1957!
